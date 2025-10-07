@@ -201,14 +201,13 @@ export default function ReportForm() {
 
             <div className="mb-6">
               <label className="block text-sm font-semibold text-gray-700 mb-2">
-                Adresse *
+                Adresse 
               </label>
               <input
                 type="text"
                 name="address"
                 value={formData.address}
-                onChange={handleInputChange}
-                required
+                onChange={handleInputChange}  
                 className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
                 placeholder="Votre adresse complète"
               />
