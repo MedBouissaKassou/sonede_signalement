@@ -22,7 +22,7 @@ export default function Hero() {
           </h2>
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
             Service en ligne de la Société Nationale d'Exploitation et de Distribution des Eaux (SONEDE).
-            Signalez rapidement toute anomalie concernant votre compteur d'eau.
+            Signalez rapidement toute anomalie concernant votre réseau d'eau.
           </p>
           <div className="grid md:grid-cols-3 gap-6 mb-10">
             <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
